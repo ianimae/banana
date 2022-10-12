@@ -1,0 +1,1 @@
+print('Beef Fried Rice')
