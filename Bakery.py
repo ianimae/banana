@@ -1,1 +1,2 @@
 print('Croissant.')
+print('Canele')
